@@ -1,0 +1,32 @@
+{
+  "name": "flex-contacts-sync",
+  "version": "1.0.0",
+  "description": "Sync contact data from Flex Rental Solutions API to local SQLite database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flex",
+    "rental",
+    "contacts",
+    "sync",
+    "sqlite"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "better-sqlite3": "^9.0.0",
+    "dotenv": "^16.3.0",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
