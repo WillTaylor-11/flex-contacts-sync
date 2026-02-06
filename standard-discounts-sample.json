@@ -1,0 +1,866 @@
+[
+  {
+    "discountId": "25a2fbbd-d530-43ea-bf0a-abe464292301",
+    "discountName": "20%",
+    "rules": [
+      {
+        "pricingModelId": "af4a35ac-aedf-11df-b8d5-00e08175e43e",
+        "pricingModelName": "Day Rate",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": "b393dfa3-ffda-40a8-b824-86da491edbaf",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.2,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": "48daab4b-3a11-4b18-bea9-328b2fd6623c",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.2,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "e04f09ac-aedf-11df-b8d5-00e08175e43e",
+        "pricingModelName": "Each",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": "3f937469-c8f7-463e-b418-602aca16905b",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.2,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": "101f0abc-1efc-467d-b24a-f0262d33602b",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.2,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "2b91cdb2-1cd2-454a-ab3b-c6a7b5949bc4",
+        "pricingModelName": "Hourly - 8 / 12",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "dee240a7-1218-411a-86f3-096eee44fec0",
+        "pricingModelName": "Hourly - 8 / 12 - .5 Meal",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "09b5caec-aee0-11df-b8d5-00e08175e43e",
+        "pricingModelName": "Hourly Rate",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": "b81e0d50-87bb-45f4-9531-9627a7892fe4",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.2,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": "ea07342c-aff8-41dd-8210-e231f78b7494",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.2,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "57da1220-133a-4168-802a-6cda6df36118",
+        "pricingModelName": "Meal Penalty",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "4163070c-aee0-11df-b8d5-00e08175e43e",
+        "pricingModelName": "Travel Rate",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": "17721617-54c6-4d93-9521-ce703dd64e0f",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.2,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": "2db576e9-57ef-4c6b-b5cc-1e080e0bb76f",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.2,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "discountId": "c5715ed9-49c0-408b-b751-58db41c0c74a",
+    "discountName": "25%",
+    "rules": [
+      {
+        "pricingModelId": "af4a35ac-aedf-11df-b8d5-00e08175e43e",
+        "pricingModelName": "Day Rate",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": "203759fb-d8d0-4343-89f0-80effc784f45",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.25,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": "a316f0ba-1f95-4f20-85c7-b9d9c3da1e04",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.25,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "e04f09ac-aedf-11df-b8d5-00e08175e43e",
+        "pricingModelName": "Each",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": "73504eba-ff20-4de2-b19d-0d08a6a5a117",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.25,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": "8f4158fa-c8e9-49fa-b07c-fe76c4b5f051",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.25,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "2b91cdb2-1cd2-454a-ab3b-c6a7b5949bc4",
+        "pricingModelName": "Hourly - 8 / 12",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "dee240a7-1218-411a-86f3-096eee44fec0",
+        "pricingModelName": "Hourly - 8 / 12 - .5 Meal",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "09b5caec-aee0-11df-b8d5-00e08175e43e",
+        "pricingModelName": "Hourly Rate",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "57da1220-133a-4168-802a-6cda6df36118",
+        "pricingModelName": "Meal Penalty",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "4163070c-aee0-11df-b8d5-00e08175e43e",
+        "pricingModelName": "Travel Rate",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "discountId": "9d92023c-ca76-11e0-a8de-00e08175e43e",
+    "discountName": "10%",
+    "rules": [
+      {
+        "pricingModelId": "af4a35ac-aedf-11df-b8d5-00e08175e43e",
+        "pricingModelName": "Day Rate",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": "a6a1583c-ca76-11e0-a8de-00e08175e43e",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.1,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "e04f09ac-aedf-11df-b8d5-00e08175e43e",
+        "pricingModelName": "Each",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": "ab5b5ddc-ca76-11e0-a8de-00e08175e43e",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.1,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "2b91cdb2-1cd2-454a-ab3b-c6a7b5949bc4",
+        "pricingModelName": "Hourly - 8 / 12",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "dee240a7-1218-411a-86f3-096eee44fec0",
+        "pricingModelName": "Hourly - 8 / 12 - .5 Meal",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "09b5caec-aee0-11df-b8d5-00e08175e43e",
+        "pricingModelName": "Hourly Rate",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": "adb79d5c-ca76-11e0-a8de-00e08175e43e",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.1,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "57da1220-133a-4168-802a-6cda6df36118",
+        "pricingModelName": "Meal Penalty",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "4163070c-aee0-11df-b8d5-00e08175e43e",
+        "pricingModelName": "Travel Rate",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": "b0092e7c-ca76-11e0-a8de-00e08175e43e",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.1,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "discountId": "ca3ce5f9-9ebe-4ce0-b975-92f2d6f7d81a",
+    "discountName": "25%",
+    "rules": [
+      {
+        "pricingModelId": "af4a35ac-aedf-11df-b8d5-00e08175e43e",
+        "pricingModelName": "Day Rate",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": "c83b8b35-841d-4540-8c63-b9ced6004034",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.25,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": "78deb994-2752-43ac-9667-12433febaddb",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.25,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "e04f09ac-aedf-11df-b8d5-00e08175e43e",
+        "pricingModelName": "Each",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": "e3aeb19a-e22a-4778-ac5c-8e98ae49ac1e",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.25,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": "c084d53f-d549-49ac-a230-f5cf6feb606c",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.25,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "2b91cdb2-1cd2-454a-ab3b-c6a7b5949bc4",
+        "pricingModelName": "Hourly - 8 / 12",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "dee240a7-1218-411a-86f3-096eee44fec0",
+        "pricingModelName": "Hourly - 8 / 12 - .5 Meal",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "09b5caec-aee0-11df-b8d5-00e08175e43e",
+        "pricingModelName": "Hourly Rate",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": "2dbda62e-ea98-4457-83d3-92d112129978",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.25,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": "807fea5b-b4d5-4704-bf3f-29b58b129d11",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.25,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "57da1220-133a-4168-802a-6cda6df36118",
+        "pricingModelName": "Meal Penalty",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": null,
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      },
+      {
+        "pricingModelId": "4163070c-aee0-11df-b8d5-00e08175e43e",
+        "pricingModelName": "Travel Rate",
+        "resourceTypeRules": [
+          {
+            "resourceTypeId": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+            "resourceTypeName": "Rental",
+            "ruleId": "f86be423-99aa-4967-8704-42943df3d4d9",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.25,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          },
+          {
+            "resourceTypeId": "a15fa91c-f0e3-11e0-a8de-00e08175e43e",
+            "resourceTypeName": "Retail",
+            "ruleId": "6c9074a5-5368-4394-b7c5-e01c8c10c447",
+            "subrentalDiscountsEnabled": false,
+            "priceDiscountPercentage": 0.25,
+            "costDiscountPercentage": 0,
+            "minDiscountablePrice": 0,
+            "maxDiscountablePrice": 0,
+            "minDiscountableCost": 0,
+            "maxDiscountableCost": 0
+          }
+        ]
+      }
+    ]
+  }
+]

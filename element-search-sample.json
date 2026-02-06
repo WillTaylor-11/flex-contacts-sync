@@ -1,0 +1,295 @@
+{
+  "totalElements": 7900,
+  "sampleElements": [
+    {
+      "id": "89b46fff-5573-4442-8b99-6c3cfbc1f7e5",
+      "name": null,
+      "documentNumber": "SALE: TSI Intercom Netgear 09/25",
+      "definitionName": "Quote",
+      "parentName": null
+    },
+    {
+      "id": "883796f6-5b7b-431c-a013-56a9b4570433",
+      "name": "",
+      "documentNumber": "PPO-00278",
+      "definitionName": "Purchase PO",
+      "parentName": "2024 Harbor Point"
+    },
+    {
+      "id": "20122aa7-a60f-41a9-8fd8-a7717fd2265f",
+      "name": "",
+      "documentNumber": "25-0020",
+      "definitionName": "Quote",
+      "parentName": "2025 - LEC STUDIOS"
+    },
+    {
+      "id": "f8d973da-3dcb-4abb-b660-eac84a912e8d",
+      "name": " 2023 Riot Valorant Champs OC - Pre Production",
+      "documentNumber": "23-0116",
+      "definitionName": "Quote",
+      "parentName": "230030 - 2023 Valorant Champions OC Rehearsal"
+    },
+    {
+      "id": "b649e662-73b5-4d78-b51e-d0f1f0ca4c84",
+      "name": " 2023 Riot Valorant Champs Shrine - Pre Production",
+      "documentNumber": "23-0108",
+      "definitionName": "Quote",
+      "parentName": "230010  - 2023 Valorant Champions Shrine"
+    },
+    {
+      "id": "9e65ff30-27e6-11ee-9080-2e0e8fe5b640",
+      "name": " 2023 Riot Valorant Champs Shrine - Pre Production",
+      "documentNumber": "INV-00296",
+      "definitionName": "Invoice",
+      "parentName": " 2023 Riot Valorant Champs Shrine - Pre Production (23-0108)"
+    },
+    {
+      "id": "94e20179-f421-4981-bd4f-7aa23c8431db",
+      "name": " 2023 Riot Valorant Champs Shrine - Pre Production (INV-00296)",
+      "documentNumber": "UNASSIGNED",
+      "definitionName": "Received Payment",
+      "parentName": " 2023 Riot Valorant Champs Shrine - Pre Production (INV-00296)"
+    },
+    {
+      "id": "26b4eaaf-38f0-4c52-bc9c-88cc48eae139",
+      "name": " 2024 April Labor - Ranch Church",
+      "documentNumber": "24-0101",
+      "definitionName": "Quote",
+      "parentName": "2024 Ranch Church"
+    },
+    {
+      "id": "7a771576-e2af-40a4-ad05-16ea9c6f08cb",
+      "name": " 2024 April Labor - Ranch Church",
+      "documentNumber": "INV-00560",
+      "definitionName": "Invoice",
+      "parentName": " 2024 April Labor - Ranch Church (24-0101)"
+    },
+    {
+      "id": "d2c9f556-f2bb-4d14-b747-75b20cc6cd9c",
+      "name": " 2024 April Labor - Ranch Church (INV-00560)",
+      "documentNumber": "UNASSIGNED",
+      "definitionName": "Received Payment",
+      "parentName": " 2024 April Labor - Ranch Church (INV-00560)"
+    },
+    {
+      "id": "9482b1fb-0db6-4c7a-98ad-00133f9d790c",
+      "name": " 2024 August   Labor - Ranch Church  ",
+      "documentNumber": "24-0178",
+      "definitionName": "Quote",
+      "parentName": "2024 Ranch Church"
+    },
+    {
+      "id": "10123576-5f90-4fa7-8818-615515db93f9",
+      "name": " 2024 August   Labor - Ranch Church  ",
+      "documentNumber": "INV-00710",
+      "definitionName": "Invoice",
+      "parentName": " 2024 August   Labor - Ranch Church   (24-0178)"
+    },
+    {
+      "id": "594bf3c5-d7e6-4baf-9819-7959affe0776",
+      "name": " 2024 August   Labor - Ranch Church   (INV-00710)",
+      "documentNumber": "UNASSIGNED",
+      "definitionName": "Received Payment",
+      "parentName": " 2024 August   Labor - Ranch Church   (INV-00710)"
+    },
+    {
+      "id": "6b9caf8e-e7ee-4aba-8e4b-1a5b0928c449",
+      "name": " 2024 June Labor - Ranch Church ",
+      "documentNumber": "INV-00668",
+      "definitionName": "Invoice",
+      "parentName": " 2024 June Labor - Ranch Church  (24-0176)"
+    },
+    {
+      "id": "efca1d2e-4692-4da0-b913-a37a0de559ab",
+      "name": " 2024 June Labor - Ranch Church ",
+      "documentNumber": "24-0176",
+      "definitionName": "Quote",
+      "parentName": "2024 Ranch Church"
+    },
+    {
+      "id": "7210db4c-6a22-4b73-9e24-e549fdbf436b",
+      "name": " 2024 June Labor - Ranch Church  (INV-00668)",
+      "documentNumber": "UNASSIGNED",
+      "definitionName": "Received Payment",
+      "parentName": " 2024 June Labor - Ranch Church  (INV-00668)"
+    },
+    {
+      "id": "b21209e0-8d2e-4be4-baa0-b5c0b023b26c",
+      "name": " 2024 LOL Worlds Play Ins LEC Studio - Balance Invoice",
+      "documentNumber": "INV-00732",
+      "definitionName": "Invoice",
+      "parentName": " 2024 LOL Worlds Play Ins LEC Studio - Equipment (24-0229)"
+    },
+    {
+      "id": "1ab0259b-1e6c-4d46-a603-2ce3eaf62bd8",
+      "name": " 2024 LOL Worlds Play Ins LEC Studio - Balance Invoice (INV-00732)",
+      "documentNumber": "UNASSIGNED",
+      "definitionName": "Received Payment",
+      "parentName": " 2024 LOL Worlds Play Ins LEC Studio - Balance Invoice (INV-00732)"
+    },
+    {
+      "id": "773496ca-da5a-4702-baff-18fd2876745f",
+      "name": " 2024 LOL Worlds Play Ins LEC Studio - Balance Invoice (INV-00732)",
+      "documentNumber": "UNASSIGNED",
+      "definitionName": "Received Payment",
+      "parentName": " 2024 LOL Worlds Play Ins LEC Studio - Balance Invoice (INV-00732)"
+    },
+    {
+      "id": "c9c67ae3-0912-498f-a047-fc240741f3bd",
+      "name": " 2024 LOL Worlds Play Ins LEC Studio - Balance Invoice (INV-00732)",
+      "documentNumber": "UNASSIGNED",
+      "definitionName": "Received Payment",
+      "parentName": " 2024 LOL Worlds Play Ins LEC Studio - Balance Invoice (INV-00732)"
+    }
+  ],
+  "elementTypes": {
+    "Quote": [
+      {
+        "id": "89b46fff-5573-4442-8b99-6c3cfbc1f7e5",
+        "name": null,
+        "documentNumber": "SALE: TSI Intercom Netgear 09/25",
+        "definitionName": "Quote",
+        "parentName": null
+      },
+      {
+        "id": "20122aa7-a60f-41a9-8fd8-a7717fd2265f",
+        "name": "",
+        "documentNumber": "25-0020",
+        "definitionName": "Quote",
+        "parentName": "2025 - LEC STUDIOS"
+      },
+      {
+        "id": "f8d973da-3dcb-4abb-b660-eac84a912e8d",
+        "name": " 2023 Riot Valorant Champs OC - Pre Production",
+        "documentNumber": "23-0116",
+        "definitionName": "Quote",
+        "parentName": "230030 - 2023 Valorant Champions OC Rehearsal"
+      },
+      {
+        "id": "b649e662-73b5-4d78-b51e-d0f1f0ca4c84",
+        "name": " 2023 Riot Valorant Champs Shrine - Pre Production",
+        "documentNumber": "23-0108",
+        "definitionName": "Quote",
+        "parentName": "230010  - 2023 Valorant Champions Shrine"
+      },
+      {
+        "id": "26b4eaaf-38f0-4c52-bc9c-88cc48eae139",
+        "name": " 2024 April Labor - Ranch Church",
+        "documentNumber": "24-0101",
+        "definitionName": "Quote",
+        "parentName": "2024 Ranch Church"
+      },
+      {
+        "id": "9482b1fb-0db6-4c7a-98ad-00133f9d790c",
+        "name": " 2024 August   Labor - Ranch Church  ",
+        "documentNumber": "24-0178",
+        "definitionName": "Quote",
+        "parentName": "2024 Ranch Church"
+      },
+      {
+        "id": "efca1d2e-4692-4da0-b913-a37a0de559ab",
+        "name": " 2024 June Labor - Ranch Church ",
+        "documentNumber": "24-0176",
+        "definitionName": "Quote",
+        "parentName": "2024 Ranch Church"
+      }
+    ],
+    "Purchase PO": [
+      {
+        "id": "883796f6-5b7b-431c-a013-56a9b4570433",
+        "name": "",
+        "documentNumber": "PPO-00278",
+        "definitionName": "Purchase PO",
+        "parentName": "2024 Harbor Point"
+      }
+    ],
+    "Invoice": [
+      {
+        "id": "9e65ff30-27e6-11ee-9080-2e0e8fe5b640",
+        "name": " 2023 Riot Valorant Champs Shrine - Pre Production",
+        "documentNumber": "INV-00296",
+        "definitionName": "Invoice",
+        "parentName": " 2023 Riot Valorant Champs Shrine - Pre Production (23-0108)"
+      },
+      {
+        "id": "7a771576-e2af-40a4-ad05-16ea9c6f08cb",
+        "name": " 2024 April Labor - Ranch Church",
+        "documentNumber": "INV-00560",
+        "definitionName": "Invoice",
+        "parentName": " 2024 April Labor - Ranch Church (24-0101)"
+      },
+      {
+        "id": "10123576-5f90-4fa7-8818-615515db93f9",
+        "name": " 2024 August   Labor - Ranch Church  ",
+        "documentNumber": "INV-00710",
+        "definitionName": "Invoice",
+        "parentName": " 2024 August   Labor - Ranch Church   (24-0178)"
+      },
+      {
+        "id": "6b9caf8e-e7ee-4aba-8e4b-1a5b0928c449",
+        "name": " 2024 June Labor - Ranch Church ",
+        "documentNumber": "INV-00668",
+        "definitionName": "Invoice",
+        "parentName": " 2024 June Labor - Ranch Church  (24-0176)"
+      },
+      {
+        "id": "b21209e0-8d2e-4be4-baa0-b5c0b023b26c",
+        "name": " 2024 LOL Worlds Play Ins LEC Studio - Balance Invoice",
+        "documentNumber": "INV-00732",
+        "definitionName": "Invoice",
+        "parentName": " 2024 LOL Worlds Play Ins LEC Studio - Equipment (24-0229)"
+      }
+    ],
+    "Received Payment": [
+      {
+        "id": "94e20179-f421-4981-bd4f-7aa23c8431db",
+        "name": " 2023 Riot Valorant Champs Shrine - Pre Production (INV-00296)",
+        "documentNumber": "UNASSIGNED",
+        "definitionName": "Received Payment",
+        "parentName": " 2023 Riot Valorant Champs Shrine - Pre Production (INV-00296)"
+      },
+      {
+        "id": "d2c9f556-f2bb-4d14-b747-75b20cc6cd9c",
+        "name": " 2024 April Labor - Ranch Church (INV-00560)",
+        "documentNumber": "UNASSIGNED",
+        "definitionName": "Received Payment",
+        "parentName": " 2024 April Labor - Ranch Church (INV-00560)"
+      },
+      {
+        "id": "594bf3c5-d7e6-4baf-9819-7959affe0776",
+        "name": " 2024 August   Labor - Ranch Church   (INV-00710)",
+        "documentNumber": "UNASSIGNED",
+        "definitionName": "Received Payment",
+        "parentName": " 2024 August   Labor - Ranch Church   (INV-00710)"
+      },
+      {
+        "id": "7210db4c-6a22-4b73-9e24-e549fdbf436b",
+        "name": " 2024 June Labor - Ranch Church  (INV-00668)",
+        "documentNumber": "UNASSIGNED",
+        "definitionName": "Received Payment",
+        "parentName": " 2024 June Labor - Ranch Church  (INV-00668)"
+      },
+      {
+        "id": "1ab0259b-1e6c-4d46-a603-2ce3eaf62bd8",
+        "name": " 2024 LOL Worlds Play Ins LEC Studio - Balance Invoice (INV-00732)",
+        "documentNumber": "UNASSIGNED",
+        "definitionName": "Received Payment",
+        "parentName": " 2024 LOL Worlds Play Ins LEC Studio - Balance Invoice (INV-00732)"
+      },
+      {
+        "id": "773496ca-da5a-4702-baff-18fd2876745f",
+        "name": " 2024 LOL Worlds Play Ins LEC Studio - Balance Invoice (INV-00732)",
+        "documentNumber": "UNASSIGNED",
+        "definitionName": "Received Payment",
+        "parentName": " 2024 LOL Worlds Play Ins LEC Studio - Balance Invoice (INV-00732)"
+      },
+      {
+        "id": "c9c67ae3-0912-498f-a047-fc240741f3bd",
+        "name": " 2024 LOL Worlds Play Ins LEC Studio - Balance Invoice (INV-00732)",
+        "documentNumber": "UNASSIGNED",
+        "definitionName": "Received Payment",
+        "parentName": " 2024 LOL Worlds Play Ins LEC Studio - Balance Invoice (INV-00732)"
+      }
+    ]
+  }
+}

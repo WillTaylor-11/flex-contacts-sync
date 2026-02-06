@@ -1,0 +1,67 @@
+{
+  "term": "ab",
+  "response": {
+    "content": [
+      {
+        "id": "2ec9c27c-c2b5-45c6-a83d-35180e4ad6a4",
+        "name": "   3RU - ASA Reasonable Rax Equipment Rack",
+        "barcode": "70054",
+        "size": null,
+        "shortHand": null
+      },
+      {
+        "id": "c01c169a-ea4d-482f-afe7-aff1a0ed5688",
+        "name": " LC/LC Duplex OM4 Multimode PVC Fiber Patch Cable - 2 m",
+        "barcode": "SWPX00348",
+        "size": null,
+        "shortHand": null
+      },
+      {
+        "id": "5ba482b9-0b63-4f29-8dd6-6dadf54000c0",
+        "name": "07 - TABLES & CHAIRS",
+        "barcode": "JEG4ONXOI4",
+        "size": null,
+        "shortHand": null
+      },
+      {
+        "id": "c26749b3-8db6-4286-abc1-300f9f1d525a",
+        "name": "1 Meter - Multimode Fiber Patch Cable - 50/125 - LC/LC",
+        "barcode": "SWPX2",
+        "size": null,
+        "shortHand": null
+      },
+      {
+        "id": "99acf81c-15f6-497b-a15b-86fa12875370",
+        "name": "1/4\" SpeakON Cable",
+        "barcode": "GSSCKJEC07",
+        "size": "025'",
+        "shortHand": null
+      }
+    ],
+    "pageable": {
+      "sort": {
+        "unsorted": true,
+        "sorted": false,
+        "empty": true
+      },
+      "pageNumber": 0,
+      "pageSize": 5,
+      "offset": 0,
+      "paged": true,
+      "unpaged": false
+    },
+    "last": false,
+    "totalElements": 1030,
+    "totalPages": 206,
+    "sort": {
+      "unsorted": true,
+      "sorted": false,
+      "empty": true
+    },
+    "first": true,
+    "numberOfElements": 5,
+    "size": 5,
+    "number": 0,
+    "empty": false
+  }
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "2f49c62c-b139-11df-b8d5-00e08175e43e",
+    "imageId": "58fbab61-63a1-44b4-9849-d34d433f8ce5",
+    "name": "Square Wave Productions LLC",
+    "locationCode": "ANA",
+    "onsite": false,
+    "owningCorporateEntityId": "4149edac-b139-11df-b8d5-00e08175e43e",
+    "corporateEntity": "Square Wave Productions LLC",
+    "localCurrencyId": "911e3d4c-aedc-11df-b8d5-00e08175e43e",
+    "currencyName": "US Dollar",
+    "locale": "en_US",
+    "localeName": "United States (en)",
+    "timeZone": "US/Pacific",
+    "timeZoneOffset": "GMT -0800",
+    "defaultPaperSize": "us-letter",
+    "holidaySchemeId": null,
+    "holidayScheme": null,
+    "termsAndConditions": null,
+    "logoScaleToFit": true,
+    "logoFitWidth": 125,
+    "logoFitHeight": 50,
+    "createdByUserName": "Chris Stein",
+    "createdDate": "2010-08-26T11:41:40",
+    "locationType": {
+      "id": "b613afcc-aede-11df-b8d5-00e08175e43e",
+      "name": "Warehouse",
+      "namePlural": "Warehouses",
+      "venue": false,
+      "deleted": false,
+      "discountable": false,
+      "domainId": "resource-type"
+    }
+  }
+]

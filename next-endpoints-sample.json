@@ -1,0 +1,73 @@
+[
+  {
+    "name": "Pricing Model",
+    "endpoint": "/pricing-model/af4a35ac-aedf-11df-b8d5-00e08175e43e",
+    "data": {
+      "id": "af4a35ac-aedf-11df-b8d5-00e08175e43e",
+      "name": "Day Rate",
+      "code": "",
+      "deleted": false,
+      "unitOfMeasureIdentity": {
+        "id": "ad67226c-abed-11df-b8d5-00e08175e43e",
+        "name": "Day"
+      },
+      "countUnitIdentity": {
+        "id": null,
+        "name": null
+      },
+      "startDate": null,
+      "endDate": null,
+      "disabledByDefault": false,
+      "resourceTypeIdentities": [
+        {
+          "id": "3d32dccc-aede-11df-b8d5-00e08175e43e",
+          "name": "Freelance Labor"
+        },
+        {
+          "id": "4a65288c-aede-11df-b8d5-00e08175e43e",
+          "name": "Labor"
+        },
+        {
+          "id": "7c16692c-aede-11df-b8d5-00e08175e43e",
+          "name": "Service"
+        },
+        {
+          "id": "936f474c-aede-11df-b8d5-00e08175e43e",
+          "name": "Travel"
+        },
+        {
+          "id": "d587bfec-aede-11df-b8d5-00e08175e43e",
+          "name": "Subrental"
+        },
+        {
+          "id": "fb2cb3ac-aedd-11df-b8d5-00e08175e43e",
+          "name": "Rental"
+        }
+      ],
+      "priceCalculationMethod": "plain",
+      "priceTierIdentities": null,
+      "priceMultiplier": 0,
+      "priceBasePricingModel": {
+        "id": null,
+        "name": null
+      },
+      "priceManualTiersEnabled": false,
+      "priceOverrideEnabled": true,
+      "priceLineQtyAsPriceMultiplier": false,
+      "priceCalculateTime": false,
+      "priceTimeSlicing": false,
+      "costCalculationMethod": "plain",
+      "costTierIdentities": null,
+      "costMultiplier": 0,
+      "costBasePricingModel": {
+        "id": null,
+        "name": null
+      },
+      "costManualTiersEnabled": false,
+      "costOverrideEnabled": true,
+      "costLineQtyAsPriceMultiplier": false,
+      "hasManualCostTiers": false,
+      "hasManualPriceTiers": false
+    }
+  }
+]

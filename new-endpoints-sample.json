@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Element Search",
+    "endpoint": "/element/search",
+    "method": "GET",
+    "recordCount": 7900,
+    "sample": {
+      "id": "89b46fff-5573-4442-8b99-6c3cfbc1f7e5",
+      "name": null,
+      "documentNumber": "SALE: TSI Intercom Netgear 09/25",
+      "definitionName": "Quote",
+      "parentName": null
+    }
+  }
+]

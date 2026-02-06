@@ -1,0 +1,43 @@
+{
+  "endpoint": {
+    "name": "node-list query (modelId)",
+    "url": "/serial-unit/node-list",
+    "params": {
+      "modelId": "f1750330-029b-46cd-a5c8-3d0531b0345c"
+    },
+    "modelId": "f1750330-029b-46cd-a5c8-3d0531b0345c"
+  },
+  "totalUnits": 1,
+  "sampleUnits": [
+    {
+      "id": "eb1fbe4a-f7b3-4b5b-b1d8-dc072914265b",
+      "name": "2RU - Ameh Case Equipment Rack (Shock Mount) (2484)",
+      "barcode": "2484",
+      "createdDate": "2023-04-12T01:12:58",
+      "isDeleted": false,
+      "modelId": "f1750330-029b-46cd-a5c8-3d0531b0345c",
+      "serial": null,
+      "stencil": "2484",
+      "ooc": false,
+      "currentLocation": "Square Wave Productions LLC",
+      "returnDate": null,
+      "inventoryModelId": "f1750330-029b-46cd-a5c8-3d0531b0345c",
+      "inventoryModelName": "   2RU - Ameh Case Equipment Rack (Shock Mount)"
+    }
+  ],
+  "allFields": [
+    "id",
+    "name",
+    "barcode",
+    "createdDate",
+    "isDeleted",
+    "modelId",
+    "serial",
+    "stencil",
+    "ooc",
+    "currentLocation",
+    "returnDate",
+    "inventoryModelId",
+    "inventoryModelName"
+  ]
+}

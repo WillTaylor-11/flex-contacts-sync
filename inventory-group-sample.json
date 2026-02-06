@@ -1,0 +1,62 @@
+{
+  "searchSample": [
+    {
+      "id": "002a4c7d-932b-4e59-9bd0-5b7af3ba5b53",
+      "name": "Vari-Lite",
+      "fullDisplayString": "Lighting > Moving Lights > Phillips > Vari-Lite",
+      "iconId": null,
+      "iconURL": null,
+      "domainId": "inventory-group"
+    },
+    {
+      "id": "00700e24-14e6-4a90-b5dc-a686e4141ba5",
+      "name": "Audio",
+      "fullDisplayString": "Miscellaneous > Warehouse > Miami > Audio",
+      "iconId": null,
+      "iconURL": null,
+      "domainId": "inventory-group"
+    },
+    {
+      "id": "015d79f2-9646-4e5a-90fd-f77c09ad59a9",
+      "name": "CISCO",
+      "fullDisplayString": "INVENTORY ITEMS > NETWORKING > CISCO",
+      "iconId": null,
+      "iconURL": null,
+      "domainId": "inventory-group"
+    },
+    {
+      "id": "0169a864-9d49-4598-8206-6927e78efe66",
+      "name": "Lighting Consumables",
+      "fullDisplayString": "Miscellaneous > Consumables > Lighting Consumables",
+      "iconId": null,
+      "iconURL": null,
+      "domainId": "inventory-group"
+    },
+    {
+      "id": "019464cf-0fc8-4e42-8643-37b257b6cd56",
+      "name": "LED Fixtures",
+      "fullDisplayString": "Lighting > LED Fixtures",
+      "iconId": null,
+      "iconURL": null,
+      "domainId": "inventory-group"
+    }
+  ],
+  "detailSample": {
+    "id": "002a4c7d-932b-4e59-9bd0-5b7af3ba5b53",
+    "name": "Vari-Lite",
+    "parentGroup": {
+      "id": "2d105dbb-0d91-40f3-b783-7bf8e05b9540",
+      "name": "Phillips",
+      "fullDisplayString": "Lighting > Moving Lights > Phillips",
+      "globalSortOrdinal": 594,
+      "domainId": "inventory-group"
+    },
+    "icon": null,
+    "managementGroup": null,
+    "salesAccount": null,
+    "purchaseAccount": null,
+    "viewGroupIds": [],
+    "safeWorkMethodIds": []
+  },
+  "totalElements": 750
+}

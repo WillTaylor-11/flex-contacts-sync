@@ -1,0 +1,86 @@
+{
+  "bestTerm": "e ",
+  "maxItems": 2777,
+  "top20": [
+    {
+      "term": "an",
+      "total": 1716
+    },
+    {
+      "term": "ac",
+      "total": 1508
+    },
+    {
+      "term": "ar",
+      "total": 1395
+    },
+    {
+      "term": "al",
+      "total": 1168
+    },
+    {
+      "term": "bl",
+      "total": 1157
+    },
+    {
+      "term": "ab",
+      "total": 1030
+    },
+    {
+      "term": "a ",
+      "total": 944
+    },
+    {
+      "term": "as",
+      "total": 932
+    },
+    {
+      "term": "am",
+      "total": 904
+    },
+    {
+      "term": "at",
+      "total": 837
+    },
+    {
+      "term": "ad",
+      "total": 799
+    },
+    {
+      "term": "ba",
+      "total": 582
+    },
+    {
+      "term": "ap",
+      "total": 573
+    },
+    {
+      "term": "be",
+      "total": 435
+    },
+    {
+      "term": "ak",
+      "total": 433
+    },
+    {
+      "term": "ag",
+      "total": 391
+    },
+    {
+      "term": "au",
+      "total": 349
+    },
+    {
+      "term": "bi",
+      "total": 289
+    },
+    {
+      "term": "ai",
+      "total": 271
+    },
+    {
+      "term": "ay",
+      "total": 265
+    }
+  ]
+}
